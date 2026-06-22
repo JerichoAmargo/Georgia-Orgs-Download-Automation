@@ -252,7 +252,7 @@ C:\Users\v-jeamargo\OneDrive - Microsoft\Desktop\Project_Georgia\download_georgi
 Example:
 
 ```powershell
-cd "C:\Users\v-jeamargo\OneDrive - Microsoft\Desktop\Project_Georgia"
+cd "C:\Users\echopc\OneDrive - Microsoft\Desktop\Project_Georgia"
 ```
 
 ### 3. Run the script
