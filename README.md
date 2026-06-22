@@ -238,7 +238,7 @@ Get-ChildItem C:\ -Recurse -Include download_georgia.py -File -ErrorAction Silen
 This returns the full file path, for example:
 
 ```text
-C:\Users\v-jeamargo\OneDrive - Microsoft\Desktop\Project_Georgia\download_georgia.py
+C:\Users\echopc\OneDrive - Microsoft\Desktop\Project_Georgia\download_georgia.py
 ```
 
 ---
@@ -624,7 +624,7 @@ Get-ChildItem C:\ -Recurse -Include download_georgia.py -File -ErrorAction Silen
 ### Run the script
 
 ```powershell
-cd "C:\Users\v-jeamargo\OneDrive - Microsoft\Desktop\Project_Georgia"
+cd "C:\Users\echopc\OneDrive - Microsoft\Desktop\Project_Georgia"
 python download_georgia.py
 ```
 
